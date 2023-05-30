@@ -10,7 +10,7 @@
         </a>
     </div>
     <div>test123</div>
-    <span>123</span>
+    <span>123456</span>
 </template>
 
 <style scoped>
