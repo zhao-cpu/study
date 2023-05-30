@@ -5,13 +5,7 @@
 <template>
     <div>
         <a href="https://vitejs.dev" target="_blank">
-            <img
-                src="/vite.svg"
-                class="logo"
-                alt="Vite logo"
-                name="1"
-                age="2"
-            />
+            <img src="/vite.svg" alt="Vite logo" name="1" age="2" />
         </a>
         <a href="https://vuejs.org/" target="_blank" name="1" age="2">
             <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
